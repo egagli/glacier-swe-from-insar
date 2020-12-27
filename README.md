@@ -1,1 +1,3 @@
-# glacier-swe-from-insar
+# ESS 505 Term Project: A Method to Track Temporal Changes in SWE on a Glacier Using InSAR
+
+This paper describes an approach to mapping changes in snow water equivalent (SWE) using Interferometric Synthetic Aperture Radar (InSAR) on a glacier. Between the two dates of an interferogram, we can isolate the change in interferometric phase due to changes in SWE by minimizing all other interferogram phase contributions. Unique to this study, we estimate the velocity of a glacier and simulate the change in interferometric phase we would expect due to glacier motion. Subtracting this phase contribution, we are left with a change in interferometric phase which we can directly relate to change in SWE between the two interferogram dates. To test our approach, we build interferograms from Sentinel-1 SAR data, estimate glacier velocities from ITS LIVE data, and ﬁnally produce estimates for change in SWE over South Cascade Glacier.
