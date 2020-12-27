@@ -1,0 +1,17 @@
+Reference Granule: S1B_IW_SLC__1SDV_20200302T142040_20200302T142107_020514_026DF6_DD97
+Secondary Granule: S1B_IW_SLC__1SDV_20200314T142040_20200314T142107_020689_027382_30C6
+Baseline: 38.5706
+UTCtime: 51641.526462
+Heading: 194.6584971
+Range looks: 20
+Azimuth looks: 4
+INSAR phase filter:  adf
+Phase filter parameter: 0.6
+Resolution of output (m): 80
+Range bandpass filter: no
+Azimuth bandpass filter: no
+DEM source: SRTMGL1
+DEM resolution (m): 160
+Unwrapping type: mcf
+Unwrapping threshold: none
+Speckle filtering: off
